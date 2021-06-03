@@ -15,7 +15,8 @@ public class BinarySearcher
    */
    public static int search(int[] a, int low, int high, int value)
    {  
-      return 0;
+       int returnInt = 0;
+      return returnInt;
    }
 }
 

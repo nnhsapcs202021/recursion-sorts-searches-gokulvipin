@@ -324,7 +324,7 @@ public final class DrawingPanel implements ImageObserver {
     /**
      * The default width of a DrawingPanel in pixels, if none is supplied at construction (500 pixels).
      */
-    public static final int DEFAULT_WIDTH           = 500;
+    public static final int DEFAULT_WIDTH           = 480;
     
     /**
      * The default height of a DrawingPanel in pixels, if none is supplied at construction (400 pixels).
